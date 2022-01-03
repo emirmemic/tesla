@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tesla/static/css/main.96952145.chunk.css",
-    "main.js": "/tesla/static/js/main.e177fdb2.chunk.js",
-    "main.js.map": "/tesla/static/js/main.e177fdb2.chunk.js.map",
+    "main.js": "/tesla/static/js/main.4e3cdabb.chunk.js",
+    "main.js.map": "/tesla/static/js/main.4e3cdabb.chunk.js.map",
     "runtime-main.js": "/tesla/static/js/runtime-main.d24e4416.js",
     "runtime-main.js.map": "/tesla/static/js/runtime-main.d24e4416.js.map",
     "static/js/2.9a4070b4.chunk.js": "/tesla/static/js/2.9a4070b4.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.96952145.chunk.css.map": "/tesla/static/css/main.96952145.chunk.css.map",
     "static/js/2.9a4070b4.chunk.js.LICENSE.txt": "/tesla/static/js/2.9a4070b4.chunk.js.LICENSE.txt",
     "static/media/accessories.027ada94.jpg": "/tesla/static/media/accessories.027ada94.jpg",
+    "static/media/down-arrow.9b52668f.svg": "/tesla/static/media/down-arrow.9b52668f.svg",
     "static/media/logo.a7b59bc6.svg": "/tesla/static/media/logo.a7b59bc6.svg",
     "static/media/logo.b2e5a01e.svg": "/tesla/static/media/logo.b2e5a01e.svg",
     "static/media/model-3.30651f79.jpg": "/tesla/static/media/model-3.30651f79.jpg",
@@ -24,6 +25,6 @@
     "static/js/runtime-main.d24e4416.js",
     "static/js/2.9a4070b4.chunk.js",
     "static/css/main.96952145.chunk.css",
-    "static/js/main.e177fdb2.chunk.js"
+    "static/js/main.4e3cdabb.chunk.js"
   ]
 }
