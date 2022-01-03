@@ -61,6 +61,9 @@ function Header() {
 export default Header;
 
 const Container = styled.div`
+  background-color: white;
+  box-shadow: 1px 2px;
+  width: 100%;
   min-height: 60px;
   position: fixed;
   display: flex;
